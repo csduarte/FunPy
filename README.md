@@ -1,5 +1,5 @@
 # FunPy
-This project is all about working through Zed Shaw's Leard Python the Hard Way with a good friend. Feel free to submit the exercises yourself, so long as you follow the submission guidelines. I can't promise they will get reviewed, but I'll try!
+This project is all about working through Zed Shaw's Learn Python the Hard Way with a good friend. Feel free to submit the exercises yourself, so long as you follow the submission guidelines. I can't promise they will get reviewed, but I'll try!
 
 ## Submission Guidelines
 1. Users' work should be in a folder named after that user. Ex: /csduarte/ex1.py
