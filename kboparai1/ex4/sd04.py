@@ -1,0 +1,1 @@
+# = is equal and it makes names or equates values. when you use == it's used to compare. 
