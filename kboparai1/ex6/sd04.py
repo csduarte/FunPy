@@ -1,0 +1,1 @@
+# Adding two strings makes a longer string because it is taking the two strings and combining them.
