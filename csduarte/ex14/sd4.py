@@ -1,0 +1,1 @@
+# Strings are strings, docblock or not
