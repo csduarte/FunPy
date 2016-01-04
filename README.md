@@ -13,3 +13,8 @@ This project is all about working through Zed Shaw's Learn Python the Hard Way w
 
 ## Calendar
 [Google Calendar](https://calendar.google.com/calendar/ical/7qkqf2eif4nlhg0gldffh0oqlk%40group.calendar.google.com/private-e97a37a283b536614596f5613aef89b0/basic.ics)
+
+## Special Notes
+1. Ex 7, ask you to keep notes of your errors on paper. Feel free to keep track, but it's not necessary.
+2. Weekends can be busy, saturdays and sunday deadlines can be mixed into Sunday.
+    - But you will be executed if you miss the Sunday Deadline. ;)
