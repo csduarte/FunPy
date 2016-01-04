@@ -1,0 +1,1 @@
+# I'll not be using flash cards. but i will google them!
