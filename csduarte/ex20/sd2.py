@@ -27,11 +27,14 @@ rewind(current_file)
 
 print "Let's print three lines:"
 
+# Current line is initialized to  1
 current_line = 1
 print_a_line(current_line, current_file)
 
+# Current Line takes previous value 1 and adds 1, 2
 current_line += 1
 print_a_line(current_line, current_file)
 
+# Current Line takes previous value 2 and adds 1, 3
 current_line += 1
 print_a_line(current_line, current_file)
