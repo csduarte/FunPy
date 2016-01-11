@@ -1,0 +1,1 @@
+# Noted that he will use commands in place of functions and methods. 
